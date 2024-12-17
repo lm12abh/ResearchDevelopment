@@ -1,0 +1,11 @@
+pytorch
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipykernel
+transformers
+google-cloud-aiplatform
+tensorflow
